@@ -1,0 +1,1 @@
+body{font-family:Arial;background:#0f172a;color:#fff;text-align:center}#grid{display:grid;grid-template-columns:repeat(10,1fr);max-width:760px;margin:20px auto;gap:4px}.c{padding:8px;background:#334155}.scan{background:#facc15;color:#000}.hit{background:#22c55e;color:#000}#current{font-size:90px;margin:20px}button{padding:12px 20px}
